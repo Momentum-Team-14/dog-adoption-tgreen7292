@@ -1,0 +1,18 @@
+.header {
+    padding: 30px;
+    background-color: #004175;
+    border-bottom: 0ch;
+}
+
+.row {
+    display: flex;
+}
+
+.dogs {
+    width: 33%;
+}
+
+.picture img {
+    width: 100%;
+
+}
